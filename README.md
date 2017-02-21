@@ -14,7 +14,7 @@ compile 'com.github.popalay:rx-lifecycle-moxy:latest-version'
 
 ```java
 @InjectViewState
-public class ChatPresenter extends BasePresenter<ChatView> {
+public class ChatPresenter extends RxPresenter<ChatView> {
 
     @Inject ChatInteractor mChatInteractor;
 
