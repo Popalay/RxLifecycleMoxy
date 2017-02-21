@@ -41,7 +41,7 @@ publish {
     groupId = 'com.github.popalay'
     artifactId = 'rx-lifecycle-moxy'
     publishVersion = '1.0.0'
-    desc = 'The utility for automatic completion of sequences based on Moxy Presenter lifecycle events.'
+    desc = 'The utility for automatic completion of sequences based on Moxy Presenter lifecycle events'
     licences = ['Apache-2.0']
     uploadName = 'RxLifecycleMoxy'
     website = 'https://github.com/Popalay/RxLifecycleMoxy'
