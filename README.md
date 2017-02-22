@@ -1,4 +1,5 @@
 [![Download](https://api.bintray.com/packages/popalay/maven/RxLifecycleMoxy/images/download.svg) ](https://bintray.com/popalay/maven/RxLifecycleMoxy/_latestVersion)
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-RxLifecycleMoxy-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/5334)
 [![License](https://img.shields.io/badge/license-Apache--2.0-green.svg)](https://github.com/Popalay/RxLifecycleMoxy/blob/master/LICENSE)
 
 # Rx Realm
